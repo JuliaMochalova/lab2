@@ -6,5 +6,7 @@
 2.
 Утилита tracert использует протокол ICMP, на 3 уровне модели OSI.
 ![](https://github.com/JuliaMochalova/lab2/blob/master/icmp.png)
+![](https://github.com/JuliaMochalova/lab2/blob/master/lev.png)
 
 3.
+![](https://github.com/JuliaMochalova/lab2/blob/master/wik.png)
