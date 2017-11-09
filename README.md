@@ -8,5 +8,6 @@
 ![](https://github.com/JuliaMochalova/lab2/blob/master/icmp.png)
 ![](https://github.com/JuliaMochalova/lab2/blob/master/lev.png)
 
-3.
+3.DNS, 4level OSI
+![](https://github.com/JuliaMochalova/lab2/blob/master/dns.png)
 ![](https://github.com/JuliaMochalova/lab2/blob/master/wik.png)
